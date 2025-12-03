@@ -34,7 +34,9 @@ A deep learning project that classifies different ear diseases from otoscopic im
 - **Generalization:** No overfitting (curves stable and close)  
 - **Grad-CAM:** Correctly highlights infected or inflamed regions  
 
-(Add your plots here if uploading to GitHub)
+<p align="center">
+  <img src="Images/download (3).png" alt="Alt text" width="700"/>
+</p>
 
 ---
 
@@ -58,7 +60,9 @@ A deep learning project that classifies different ear diseases from otoscopic im
 
 ## 🔥 Grad-CAM Heatmaps
 
-(You can insert sample heatmap images here in GitHub)
+<p align="center">
+  <img src="Images/download (2).png" alt="Alt text" width="700"/>
+</p>
 
 ---
 
@@ -67,10 +71,43 @@ A deep learning project that classifies different ear diseases from otoscopic im
 ```bash
 pip install -r requirements.txt
 ```
- 
+---
+
+# 📝 Technologies Used
+
+🔴 Python
+
+🔴 TensorFlow / Keras
+
+🔴 NumPy, Matplotlib
+
+🔴 OpenCV
+
+🔴 Scikit-Learn
+
+🔴 Google Colab (T4 GPU)
+
+---
+ ## 👨‍💻 Author
+
+Abhijith Babu
+Passionate about ML & AI 🚀
+
+📌 GitHub: [https://github.com/AbhijithBabu12]
+
+📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
 ## 📦 Exporting the Model
 
 You can export your trained model as:
 ```bash
 model.save("ear_disease_mobilenet.h5")
 ```
+---
+ ## 👨‍💻 Author
+
+Abhijith Babu
+Passionate about ML & AI 🚀
+
+📌 GitHub: [https://github.com/AbhijithBabu12]
+
+📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
