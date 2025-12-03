@@ -88,14 +88,7 @@ pip install -r requirements.txt
 🔴 Google Colab (T4 GPU)
 
 ---
- ## 👨‍💻 Author
 
-Abhijith Babu
-Passionate about ML & AI 🚀
-
-📌 GitHub: [https://github.com/AbhijithBabu12]
-
-📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
 ## 📦 Exporting the Model
 
 You can export your trained model as:
