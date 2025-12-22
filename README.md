@@ -42,7 +42,7 @@ A deep learning project that classifies different ear diseases from otoscopic im
 
 ## 📁 Project Structure
 
-├── ear_project.ipynb  # Training notebook
+├── bra.ipynb  # Training notebook
 
 ├── otitis_mobilenet_v2.h5
 
